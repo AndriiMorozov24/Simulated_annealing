@@ -15,3 +15,4 @@ Also you can change start and end value of the temprature. (8-9th line)
 66th line is responsible for formula that changes the tempreture, feel free to set it via your needs.
 
 At the end will be created file called "output.txt" with results.
+Also repository contains couple .csv data and example outputs.
