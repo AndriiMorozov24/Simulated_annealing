@@ -1,6 +1,5 @@
 # Simulated_annealing
- simulated annealing algorithm for the flow-shop scheduling problem
-andrii.morozov23@gmail.com 
+ simulated annealing algorithm for the flow-shop scheduling problem by andrii.morozov23@gmail.com 
 
 Enter name of your input file. (3rd line)
 To start calculations, provide data (4th line), it must be .csv format.
