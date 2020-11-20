@@ -1,0 +1,192 @@
+Current file =  Dane_S2_100_20.csv 
+Output for the number of probes =  10 
+Current temperature =  85  Current best =  7886 
+Current temperature =  72.25  Current best =  7780 
+Current temperature =  61.413  Current best =  7802 
+Current temperature =  52.201  Current best =  7802 
+Current temperature =  44.371  Current best =  7794 
+Current temperature =  37.715  Current best =  7805 
+Current temperature =  32.058  Current best =  7701 
+Current temperature =  27.249  Current best =  7601 
+Current temperature =  23.162  Current best =  7513 
+Current temperature =  19.687  Current best =  7449 
+Current temperature =  16.734  Current best =  7451 
+Current temperature =  14.224  Current best =  7424 
+Current temperature =  12.091  Current best =  7403 
+Current temperature =  10.277  Current best =  7364 
+Current temperature =  8.735  Current best =  7364 
+Current temperature =  7.425  Current best =  7321 
+Current temperature =  6.311  Current best =  7295 
+Current temperature =  5.365  Current best =  7242 
+Current temperature =  4.56  Current best =  7242 
+Current temperature =  3.876  Current best =  7198 
+Current temperature =  3.295  Current best =  7173 
+Current temperature =  2.8  Current best =  7171 
+Current temperature =  2.38  Current best =  7171 
+Current temperature =  2.023  Current best =  7159 
+Current temperature =  1.72  Current best =  7159 
+Current temperature =  1.462  Current best =  7157 
+Current temperature =  1.243  Current best =  7154 
+Current temperature =  1.056  Current best =  7155 
+Current temperature =  0.898  Current best =  7131 
+Current temperature =  0.763  Current best =  7131 
+Current temperature =  0.649  Current best =  7119 
+Current temperature =  0.551  Current best =  7119 
+Current temperature =  0.469  Current best =  7089 
+Current temperature =  0.398  Current best =  7089 
+Current temperature =  0.339  Current best =  7089 
+Current temperature =  0.288  Current best =  7089 
+Current temperature =  0.245  Current best =  7089 
+Current temperature =  0.208  Current best =  7089 
+Current temperature =  0.177  Current best =  7089 
+Current temperature =  0.15  Current best =  7076 
+Current temperature =  0.128  Current best =  7076 
+Current temperature =  0.109  Current best =  7076 
+Current temperature =  0.092  Current best =  7076 
+Current temperature =  0.078  Current best =  7076 
+Current temperature =  0.067  Current best =  7076 
+Current temperature =  0.057  Current best =  7076 
+Current temperature =  0.048  Current best =  7076 
+Current temperature =  0.041  Current best =  7076 
+Current temperature =  0.035  Current best =  7076 
+Current temperature =  0.03  Current best =  7074 
+Current temperature =  0.025  Current best =  7069 
+Current temperature =  0.021  Current best =  7053 
+Current temperature =  0.018  Current best =  7053 
+Current temperature =  0.015  Current best =  7053 
+Current temperature =  0.013  Current best =  7053 
+Current temperature =  0.011  Current best =  7036 
+Current temperature =  0.009  Current best =  7036 
+Optimal schedule 
+  [1]  25  14  22  43  71  17  27  32  96  33  51  91  50  74   3  30  97  44  99   2  55  52   5  42  94  54  12  16  35  87  93  95   7
+ [34]  69  76  26  72  77  64  82  37  57  98  31   1  65  29  28  48  36 100   9  46  39  66  49  10  34  75  88  92  47  40  59  45  19
+ [67]  80  73  56  60  18  61  63  62  85  79  67   6  21   4  23  70  78  15  20   8  83  53  84  90  68  41  81  86  24  89  13  58  11
+[100]  38
+Current file =  Dane_S2_100_20.csv 
+Output for the number of probes =  10 
+Current temperature =  85  Current best =  7957 
+Current temperature =  72.25  Current best =  7886 
+Current temperature =  61.413  Current best =  7888 
+Current temperature =  52.201  Current best =  7731 
+Current temperature =  44.371  Current best =  7660 
+Current temperature =  37.715  Current best =  7501 
+Current temperature =  32.058  Current best =  7486 
+Current temperature =  27.249  Current best =  7496 
+Current temperature =  23.162  Current best =  7488 
+Current temperature =  19.687  Current best =  7396 
+Current temperature =  16.734  Current best =  7397 
+Current temperature =  14.224  Current best =  7394 
+Current temperature =  12.091  Current best =  7384 
+Current temperature =  10.277  Current best =  7363 
+Current temperature =  8.735  Current best =  7289 
+Current temperature =  7.425  Current best =  7279 
+Current temperature =  6.311  Current best =  7279 
+Current temperature =  5.365  Current best =  7272 
+Current temperature =  4.56  Current best =  7272 
+Current temperature =  3.876  Current best =  7271 
+Current temperature =  3.295  Current best =  7264 
+Current temperature =  2.8  Current best =  7212 
+Current temperature =  2.38  Current best =  7211 
+Current temperature =  2.023  Current best =  7203 
+Current temperature =  1.72  Current best =  7203 
+Current temperature =  1.462  Current best =  7178 
+Current temperature =  1.243  Current best =  7178 
+Current temperature =  1.056  Current best =  7163 
+Current temperature =  0.898  Current best =  7163 
+Current temperature =  0.763  Current best =  7144 
+Current temperature =  0.649  Current best =  7144 
+Current temperature =  0.551  Current best =  7144 
+Current temperature =  0.469  Current best =  7144 
+Current temperature =  0.398  Current best =  7137 
+Current temperature =  0.339  Current best =  7135 
+Current temperature =  0.288  Current best =  7135 
+Current temperature =  0.245  Current best =  7119 
+Current temperature =  0.208  Current best =  7119 
+Current temperature =  0.177  Current best =  7111 
+Current temperature =  0.15  Current best =  7111 
+Current temperature =  0.128  Current best =  7111 
+Current temperature =  0.109  Current best =  7077 
+Current temperature =  0.092  Current best =  7067 
+Current temperature =  0.078  Current best =  7053 
+Current temperature =  0.067  Current best =  7053 
+Current temperature =  0.057  Current best =  7053 
+Current temperature =  0.048  Current best =  7053 
+Current temperature =  0.041  Current best =  7053 
+Current temperature =  0.035  Current best =  7053 
+Current temperature =  0.03  Current best =  7053 
+Current temperature =  0.025  Current best =  7023 
+Current temperature =  0.021  Current best =  7012 
+Current temperature =  0.018  Current best =  7012 
+Current temperature =  0.015  Current best =  7012 
+Current temperature =  0.013  Current best =  7003 
+Current temperature =  0.011  Current best =  7003 
+Current temperature =  0.009  Current best =  7003 
+Optimal schedule 
+  [1]  32  74  14  97  50  65  76  11   5  36  28  25  79   3  77  70  12  10  54  85  99  84  16  27   8  21  82  87  37  45  86  51  94
+ [34]  52  72 100   9  78  44  40  60  30   6  41   4  98  57   7  39  56  34  42  81  53  71  26  19  64  80   1  59  24  91  68  92  96
+ [67]  69  48  55  35  95  89  90  20  29  58  17  15  49  46  73  38  33  23  67  13  22  66  83  75  62  47  18  43  88  61  31   2  63
+[100]  93
+Current file =  Dane_S2_100_20.csv 
+Output for the number of probes =  10 
+Current temperature =  85  Current best =  7966 
+Current temperature =  72.25  Current best =  7913 
+Current temperature =  61.413  Current best =  7841 
+Current temperature =  52.201  Current best =  7839 
+Current temperature =  44.371  Current best =  7805 
+Current temperature =  37.715  Current best =  7702 
+Current temperature =  32.058  Current best =  7621 
+Current temperature =  27.249  Current best =  7644 
+Current temperature =  23.162  Current best =  7557 
+Current temperature =  19.687  Current best =  7493 
+Current temperature =  16.734  Current best =  7471 
+Current temperature =  14.224  Current best =  7424 
+Current temperature =  12.091  Current best =  7442 
+Current temperature =  10.277  Current best =  7442 
+Current temperature =  8.735  Current best =  7442 
+Current temperature =  7.425  Current best =  7432 
+Current temperature =  6.311  Current best =  7392 
+Current temperature =  5.365  Current best =  7378 
+Current temperature =  4.56  Current best =  7339 
+Current temperature =  3.876  Current best =  7308 
+Current temperature =  3.295  Current best =  7278 
+Current temperature =  2.8  Current best =  7254 
+Current temperature =  2.38  Current best =  7254 
+Current temperature =  2.023  Current best =  7236 
+Current temperature =  1.72  Current best =  7236 
+Current temperature =  1.462  Current best =  7234 
+Current temperature =  1.243  Current best =  7202 
+Current temperature =  1.056  Current best =  7202 
+Current temperature =  0.898  Current best =  7203 
+Current temperature =  0.763  Current best =  7181 
+Current temperature =  0.649  Current best =  7181 
+Current temperature =  0.551  Current best =  7162 
+Current temperature =  0.469  Current best =  7141 
+Current temperature =  0.398  Current best =  7119 
+Current temperature =  0.339  Current best =  7109 
+Current temperature =  0.288  Current best =  7109 
+Current temperature =  0.245  Current best =  7107 
+Current temperature =  0.208  Current best =  7101 
+Current temperature =  0.177  Current best =  7101 
+Current temperature =  0.15  Current best =  7101 
+Current temperature =  0.128  Current best =  7101 
+Current temperature =  0.109  Current best =  7101 
+Current temperature =  0.092  Current best =  7101 
+Current temperature =  0.078  Current best =  7087 
+Current temperature =  0.067  Current best =  7084 
+Current temperature =  0.057  Current best =  7084 
+Current temperature =  0.048  Current best =  7071 
+Current temperature =  0.041  Current best =  7071 
+Current temperature =  0.035  Current best =  7071 
+Current temperature =  0.03  Current best =  7071 
+Current temperature =  0.025  Current best =  7071 
+Current temperature =  0.021  Current best =  7069 
+Current temperature =  0.018  Current best =  7049 
+Current temperature =  0.015  Current best =  7049 
+Current temperature =  0.013  Current best =  7049 
+Current temperature =  0.011  Current best =  7049 
+Current temperature =  0.009  Current best =  7049 
+Optimal schedule 
+  [1]   9  62  73  90  89  59  50  28  41  12  44  22  21  17  26  11  86  36  10  57  88  46   1  56  82  23  72  19   2   7  92  81  29
+ [34]  76  87  37  49  20  64  95  94  15  24   8  14  39  40  70   6  66  55  69  96  67  25  13  80  98   5  84  79  27   3  85  47  61
+ [67]  75 100  58  52  45  32  63  30  71  48  31   4  77  74  16  97  60  68  53  65  42  38  43  78  83  99  35  18  33  93  91  54  51
+[100]  34
