@@ -2,12 +2,12 @@
 if (!is.null(WD)) setwd(WD)
 df <- read.csv("Dane_S2_100_20.csv", sep = ";", row.names = "Zadanie")
 
-N = nrow(df) #ogolna liczba zadan
-NM = ncol(df) #ogolna liczba maszyn
-k = 10000 #liczba prob w epoce
-T0 = 100 #temperatura poczatkowa
-Tk = 0.01 #temperatura koncowa
-a = 0.85 # dla zmiany temperatury
+N = nrow(df) # number of tasks
+NM = ncol(df) # number of machines
+k = 10000 # number of probes in the epoch
+T0 = 100 # start temperature
+Tk = 0.01 # end temperature
+a = 0.85 # for temperature change
 
 Switch <- function(vectorM.,vector.){ 
   for (j in 1:N){
@@ -22,54 +22,54 @@ Switch <- function(vectorM.,vector.){
   vectorM.[Find] <- vectorM.[Sind]
   vectorM.[Sind] <- temp
   return(vectorM.)
-} # funkcja zamienia 2 wygenorawane losowo zadania
+} # function that swap 2 random tasks
 
 Fcelu <- function(.vector){
-  temp <- rep(0,NM) 
+  temp <- rep(0,NM) # how much time each machine will work with given schedule
   for (i in 1:N){
-    ind <- .vector[i] #numer zadania
+    ind <- .vector[i] # number of current task
     for(j in 1:NM){
-      if (j!=1) { # dla pozostalych maszyn
-        if (temp[j] < temp[j-1]){ #ustawiamy bufor czasowy
-          temp[j] <- temp[j-1] + df[[j]][[ind]] #czas rozpoczecia kolejnego zadania na maszynie [j]
+      if (j!=1) { # for other machines
+        if (temp[j] < temp[j-1]){ # calculating "makespan"
+          temp[j] <- temp[j-1] + df[[j]][[ind]] # starting time of the next task on the machine [j]
         }else {
-          temp[j] <- temp[j] + df[[j]][[ind]] #czas rozpoczecia kolejnego zadania na maszynie [j]
+          temp[j] <- temp[j] + df[[j]][[ind]] # starting time of the next task on the machine [j]
         }
-      }else{
-        temp[j] <- temp[j] + df[[j]][[ind]] #czas rozpoczecia kolejnego zadania na maszynie 1
+      }else{ # for the first machine
+        temp[j] <- temp[j] + df[[j]][[ind]] # starting time of the next task on the first machine
       }
     }
   }
-  return(max(temp)) #interesuje nas czas koncowy uszeregowania zadan, czyli maximum maszyn
+  return(max(temp)) # we are interested to accomplish all tasks, so we choose max of time 
 } 
 
-R0 <- sample(1:N,N,replace = F) #stan zerowy
-curMin <- Fcelu(R0) #obecna wartosc FC
+R0 <- sample(1:N,N,replace = F) # random generated scheduling
+curMin <- Fcelu(R0) # current scheduling time
 
 repeat{
   for(i in 1:k){
-    tempR <- sample(1:N,2,replace = F) # generowanie 2 losowych zadan
-    Kandydat <- Switch(R0, tempR) 
-    Kandydat.Min <- Fcelu(Kandydat)
-    dE <- Kandydat.Min - curMin
-    if (dE < 0){
-      R0 <- Kandydat
-      curMin <- Kandydat.Min
-    }else{
-      .rand <- runif(1,0,1)
-      if (.rand < exp(-dE/T0)){
+    tempR <- sample(1:N,2,replace = F) # two random generated tasks
+    Kandydat <- Switch(R0, tempR) # swaping them
+    Kandydat.Min <- Fcelu(Kandydat) # checking new scheduling time
+    dE <- Kandydat.Min - curMin 
+    if (dE < 0){ # if we found better scheduling time
+      R0 <- Kandydat # new scheduling
+      curMin <- Kandydat.Min # override with the new optimal scheduling time
+    }else{ # if not
+      .rand <- runif(1,0,1) # still we want to give it a try
+      if (.rand < exp(-dE/T0)){ # condition
         R0 <- Kandydat
         curMin <- Kandydat.Min
       }
     }
   }
-  T0 = T0 * a
-  print(round(T0,3)) #nowa temperatura 
-  print(curMin) #obecna wartosc FC
-  if(T0 <= Tk){
+  T0 = T0 * a # changing temperature
+  print(round(T0,3)) # new temperature
+  print(curMin) # current optimal scheduling time
+  if(T0 <= Tk){ # stop condition
     break
   }
 }
 KolejnoscZadan <- data.frame(R0)
-KolejnoscZadan
+KolejnoscZadan # final optimal scheduling
 
