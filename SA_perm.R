@@ -1,29 +1,36 @@
 (WD <- getwd())
 if (!is.null(WD)) setwd(WD)
-name <- "Dane_S2_100_20.csv"
+name <- "Dane_S2_50_10.csv"
 df <- read.csv(name, sep = ";", row.names = "Zadanie")
 
 N = nrow(df) # number of tasks
 NM = ncol(df) # number of machines
-k = 10 # number of probes in the epoch
+k = 100 # number of probes in the epoch
 T0 = 100 # start temperature
 Tk = 0.01 # end temperature
 a = 0.85 # for temperature change
 
-Swap <- function(vectorM.,vector.){ 
-  for (j in 1:N){
-    if (vectorM.[j] == vector.[1]){
-      Find <- j
-    }
-    if (vectorM.[j] == vector.[2]){
-      Sind <- j
-    }
+Swap <- function(vector) {
+  tempR <- sample(1:length(vector), 2, replace = FALSE)
+  index <- which(vector %in% tempR)
+  if((index[1]==1) && (index[2]==length(vector))){
+    final <- rev(vector)
+  }else if(index[1]==1){
+    temp2 <- list.subset(vector, c((index[2]+1):length(vector)))
+    .rev <- rev(list.subset(vector, c(index[1]:index[2])))
+    final <- c(.rev,temp2)
+  }else if(index[2]==length(vector)){
+    temp1 <- list.subset(vector, c(1:(index[1]-1)))
+    .rev <- rev(list.subset(vector, c(index[1]:index[2])))
+    final <- c(temp1,.rev)
+  }else{
+    temp1 <- list.subset(vector, c(1:(index[1]-1)))
+    temp2 <- list.subset(vector, c((index[2]+1):length(vector)))
+    .rev <- rev(list.subset(vector, c(index[1]:index[2])))
+    final <- c(temp1, .rev, temp2)
   }
-  temp <- vectorM.[Find]
-  vectorM.[Find] <- vectorM.[Sind]
-  vectorM.[Sind] <- temp
-  return(vectorM.)
-} # function that swap 2 random tasks
+  return(final)
+}
 
 Fitness <- function(.vector){
   temp <- rep(0,NM) # how much time each machine will work with given schedule
@@ -51,8 +58,7 @@ curMin <- Fitness(Schedule) # current scheduling time
 
 repeat{
   for(i in 1:k){
-    tempR <- sample(1:N,2,replace = F) # two random generated tasks
-    Kandydat <- Swap(Schedule, tempR) # swaping them
+    Kandydat <- Swap(Schedule) # swap
     Kandydat.Min <- Fitness(Kandydat) # checking new scheduling time
     dE <- Kandydat.Min - curMin 
     if (dE < 0){ # if we found better scheduling time
@@ -74,5 +80,5 @@ repeat{
 }
 cat("Optimal schedule", "\n", file = "output.txt", append = TRUE)
 capture.output(Schedule, file = "output.txt", append = TRUE)
-
+print("end")
 
