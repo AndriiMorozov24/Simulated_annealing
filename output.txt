@@ -1,593 +1,597 @@
 Current file =  Dane_S2_50_10.csv 
-Output for the number of probes =  1000 
-Current temperature =  85  Current best =  3483 
-Current temperature =  72.25  Current best =  3379 
-Current temperature =  61.413  Current best =  3500 
-Current temperature =  52.201  Current best =  3550 
-Current temperature =  44.371  Current best =  3570 
-Current temperature =  37.715  Current best =  3559 
-Current temperature =  32.058  Current best =  3441 
-Current temperature =  27.249  Current best =  3439 
-Current temperature =  23.162  Current best =  3442 
-Current temperature =  19.687  Current best =  3366 
-Current temperature =  16.734  Current best =  3270 
-Current temperature =  14.224  Current best =  3264 
-Current temperature =  12.091  Current best =  3214 
-Current temperature =  10.277  Current best =  3362 
-Current temperature =  8.735  Current best =  3267 
-Current temperature =  7.425  Current best =  3113 
-Current temperature =  6.311  Current best =  3147 
-Current temperature =  5.365  Current best =  3189 
-Current temperature =  4.56  Current best =  3125 
-Current temperature =  3.876  Current best =  3122 
-Current temperature =  3.295  Current best =  3048 
-Current temperature =  2.8  Current best =  3050 
-Current temperature =  2.38  Current best =  3018 
-Current temperature =  2.023  Current best =  3018 
-Current temperature =  1.72  Current best =  3022 
-Current temperature =  1.462  Current best =  3018 
-Current temperature =  1.243  Current best =  2998 
-Current temperature =  1.056  Current best =  2965 
-Current temperature =  0.898  Current best =  2962 
-Current temperature =  0.763  Current best =  2962 
-Current temperature =  0.649  Current best =  2961 
-Current temperature =  0.551  Current best =  2962 
-Current temperature =  0.469  Current best =  2963 
-Current temperature =  0.398  Current best =  2950 
-Current temperature =  0.339  Current best =  2949 
-Current temperature =  0.288  Current best =  2949 
-Current temperature =  0.245  Current best =  2949 
-Current temperature =  0.208  Current best =  2949 
-Current temperature =  0.177  Current best =  2949 
-Current temperature =  0.15  Current best =  2949 
-Current temperature =  0.128  Current best =  2949 
-Current temperature =  0.109  Current best =  2941 
-Current temperature =  0.092  Current best =  2936 
-Current temperature =  0.078  Current best =  2936 
-Current temperature =  0.067  Current best =  2936 
-Current temperature =  0.057  Current best =  2936 
-Current temperature =  0.048  Current best =  2936 
-Current temperature =  0.041  Current best =  2936 
-Current temperature =  0.035  Current best =  2936 
-Current temperature =  0.03  Current best =  2936 
-Current temperature =  0.025  Current best =  2936 
-Current temperature =  0.021  Current best =  2936 
-Current temperature =  0.018  Current best =  2936 
-Current temperature =  0.015  Current best =  2936 
-Current temperature =  0.013  Current best =  2936 
-Current temperature =  0.011  Current best =  2936 
-Current temperature =  0.009  Current best =  2936 
-Optimal schedule 
- [1]  4 28 10 25  2 24 31 11 38 47 16  9 27 33  3 46 45  5 40 18 50 35 20 42 30 12 41 43 48 17 39
-[32] 32 34 36 29  1 13 19 23  7 44 49 14 22 26 15 37 21  6  8
-Current file =  Dane_S2_50_10.csv 
+Start temperature =  100 
 Output for the number of probes =  5000 
-Current temperature =  85  Current best =  3744 
-Current temperature =  72.25  Current best =  3658 
-Current temperature =  61.413  Current best =  3586 
-Current temperature =  52.201  Current best =  3343 
-Current temperature =  44.371  Current best =  3610 
-Current temperature =  37.715  Current best =  3402 
-Current temperature =  32.058  Current best =  3521 
-Current temperature =  27.249  Current best =  3525 
-Current temperature =  23.162  Current best =  3329 
-Current temperature =  19.687  Current best =  3330 
-Current temperature =  16.734  Current best =  3207 
-Current temperature =  14.224  Current best =  3383 
-Current temperature =  12.091  Current best =  3259 
-Current temperature =  10.277  Current best =  3218 
-Current temperature =  8.735  Current best =  3113 
-Current temperature =  7.425  Current best =  3196 
-Current temperature =  6.311  Current best =  3134 
+Current temperature =  85  Current best =  3625 
+Current temperature =  72.25  Current best =  3586 
+Current temperature =  61.413  Current best =  3632 
+Current temperature =  52.201  Current best =  3492 
+Current temperature =  44.371  Current best =  3715 
+Current temperature =  37.715  Current best =  3582 
+Current temperature =  32.058  Current best =  3437 
+Current temperature =  27.249  Current best =  3377 
+Current temperature =  23.162  Current best =  3430 
+Current temperature =  19.687  Current best =  3429 
+Current temperature =  16.734  Current best =  3411 
+Current temperature =  14.224  Current best =  3238 
+Current temperature =  12.091  Current best =  3283 
+Current temperature =  10.277  Current best =  3280 
+Current temperature =  8.735  Current best =  3171 
+Current temperature =  7.425  Current best =  3171 
+Current temperature =  6.311  Current best =  3088 
+Current temperature =  5.365  Current best =  3120 
+Current temperature =  4.56  Current best =  3064 
+Current temperature =  3.876  Current best =  3066 
+Current temperature =  3.295  Current best =  3011 
+Current temperature =  2.8  Current best =  2985 
+Current temperature =  2.38  Current best =  2988 
+Current temperature =  2.023  Current best =  2962 
+Current temperature =  1.72  Current best =  2977 
+Current temperature =  1.462  Current best =  2966 
+Current temperature =  1.243  Current best =  2962 
+Current temperature =  1.056  Current best =  2948 
+Current temperature =  0.898  Current best =  2945 
+Current temperature =  0.763  Current best =  2944 
+Current temperature =  0.649  Current best =  2943 
+Current temperature =  0.551  Current best =  2943 
+Current temperature =  0.469  Current best =  2943 
+Current temperature =  0.398  Current best =  2943 
+Current temperature =  0.339  Current best =  2943 
+Current temperature =  0.288  Current best =  2943 
+Current temperature =  0.245  Current best =  2943 
+Current temperature =  0.208  Current best =  2943 
+Current temperature =  0.177  Current best =  2943 
+Current temperature =  0.15  Current best =  2943 
+Current temperature =  0.128  Current best =  2943 
+Current temperature =  0.109  Current best =  2943 
+Current temperature =  0.092  Current best =  2943 
+Current temperature =  0.078  Current best =  2943 
+Current temperature =  0.067  Current best =  2943 
+Current temperature =  0.057  Current best =  2943 
+Current temperature =  0.048  Current best =  2943 
+Current temperature =  0.041  Current best =  2943 
+Current temperature =  0.035  Current best =  2943 
+Current temperature =  0.03  Current best =  2943 
+Current temperature =  0.025  Current best =  2943 
+Current temperature =  0.021  Current best =  2943 
+Current temperature =  0.018  Current best =  2943 
+Current temperature =  0.015  Current best =  2943 
+Current temperature =  0.013  Current best =  2943 
+Current temperature =  0.011  Current best =  2943 
+Current temperature =  0.009  Current best =  2943 
+Optimal schedule 
+ [1] 10 24 28 25 46 45 47 38 33  3 34  9 40 39 11 43  4 16 44 41  5 18 49 29 19 42 31  2 17 27 30 36
+[33] 15 48 20 26  1 13 32 50 14 35 22 23 37  7 21  6  8 12
+Current file =  Dane_S2_50_10.csv 
+Start temperature =  100 
+Output for the number of probes =  10000 
+Current temperature =  85  Current best =  3551 
+Current temperature =  72.25  Current best =  3532 
+Current temperature =  61.413  Current best =  3602 
+Current temperature =  52.201  Current best =  3396 
+Current temperature =  44.371  Current best =  3478 
+Current temperature =  37.715  Current best =  3541 
+Current temperature =  32.058  Current best =  3506 
+Current temperature =  27.249  Current best =  3472 
+Current temperature =  23.162  Current best =  3307 
+Current temperature =  19.687  Current best =  3281 
+Current temperature =  16.734  Current best =  3252 
+Current temperature =  14.224  Current best =  3276 
+Current temperature =  12.091  Current best =  3233 
+Current temperature =  10.277  Current best =  3301 
+Current temperature =  8.735  Current best =  3182 
+Current temperature =  7.425  Current best =  3119 
+Current temperature =  6.311  Current best =  3084 
 Current temperature =  5.365  Current best =  3040 
-Current temperature =  4.56  Current best =  3030 
-Current temperature =  3.876  Current best =  3025 
-Current temperature =  3.295  Current best =  3010 
-Current temperature =  2.8  Current best =  3007 
-Current temperature =  2.38  Current best =  2965 
-Current temperature =  2.023  Current best =  2963 
-Current temperature =  1.72  Current best =  2932 
-Current temperature =  1.462  Current best =  2928 
-Current temperature =  1.243  Current best =  2929 
-Current temperature =  1.056  Current best =  2930 
-Current temperature =  0.898  Current best =  2931 
-Current temperature =  0.763  Current best =  2915 
-Current temperature =  0.649  Current best =  2913 
-Current temperature =  0.551  Current best =  2907 
-Current temperature =  0.469  Current best =  2907 
-Current temperature =  0.398  Current best =  2907 
-Current temperature =  0.339  Current best =  2907 
-Current temperature =  0.288  Current best =  2907 
-Current temperature =  0.245  Current best =  2907 
-Current temperature =  0.208  Current best =  2907 
-Current temperature =  0.177  Current best =  2907 
-Current temperature =  0.15  Current best =  2907 
-Current temperature =  0.128  Current best =  2895 
-Current temperature =  0.109  Current best =  2895 
-Current temperature =  0.092  Current best =  2895 
-Current temperature =  0.078  Current best =  2895 
-Current temperature =  0.067  Current best =  2895 
-Current temperature =  0.057  Current best =  2895 
-Current temperature =  0.048  Current best =  2895 
-Current temperature =  0.041  Current best =  2895 
-Current temperature =  0.035  Current best =  2895 
-Current temperature =  0.03  Current best =  2883 
-Current temperature =  0.025  Current best =  2883 
-Current temperature =  0.021  Current best =  2871 
-Current temperature =  0.018  Current best =  2871 
-Current temperature =  0.015  Current best =  2871 
-Current temperature =  0.013  Current best =  2871 
-Current temperature =  0.011  Current best =  2871 
-Current temperature =  0.009  Current best =  2871 
+Current temperature =  4.56  Current best =  3054 
+Current temperature =  3.876  Current best =  3029 
+Current temperature =  3.295  Current best =  3027 
+Current temperature =  2.8  Current best =  2973 
+Current temperature =  2.38  Current best =  2951 
+Current temperature =  2.023  Current best =  2966 
+Current temperature =  1.72  Current best =  2947 
+Current temperature =  1.462  Current best =  2963 
+Current temperature =  1.243  Current best =  2934 
+Current temperature =  1.056  Current best =  2937 
+Current temperature =  0.898  Current best =  2936 
+Current temperature =  0.763  Current best =  2934 
+Current temperature =  0.649  Current best =  2937 
+Current temperature =  0.551  Current best =  2936 
+Current temperature =  0.469  Current best =  2934 
+Current temperature =  0.398  Current best =  2934 
+Current temperature =  0.339  Current best =  2935 
+Current temperature =  0.288  Current best =  2934 
+Current temperature =  0.245  Current best =  2934 
+Current temperature =  0.208  Current best =  2934 
+Current temperature =  0.177  Current best =  2934 
+Current temperature =  0.15  Current best =  2934 
+Current temperature =  0.128  Current best =  2934 
+Current temperature =  0.109  Current best =  2934 
+Current temperature =  0.092  Current best =  2934 
+Current temperature =  0.078  Current best =  2934 
+Current temperature =  0.067  Current best =  2934 
+Current temperature =  0.057  Current best =  2934 
+Current temperature =  0.048  Current best =  2934 
+Current temperature =  0.041  Current best =  2934 
+Current temperature =  0.035  Current best =  2934 
+Current temperature =  0.03  Current best =  2934 
+Current temperature =  0.025  Current best =  2934 
+Current temperature =  0.021  Current best =  2934 
+Current temperature =  0.018  Current best =  2934 
+Current temperature =  0.015  Current best =  2934 
+Current temperature =  0.013  Current best =  2934 
+Current temperature =  0.011  Current best =  2934 
+Current temperature =  0.009  Current best =  2934 
 Optimal schedule 
- [1] 24  4 10 28 25 46 45 20  3  9 16 47 38  7 11  2 32 14 43 33 18 29 49  5 48 40 39 13 50 35 42
-[32] 41 19 44 36  1 21 27 37 17 31 34 23 15 30  6 26 22 12  8
+ [1] 10 24 49 25 46 14 38  4  9 28 31 47 35  2 19 13 20 29 43 45  3 30 18 37 11 12 16 21  5 27 44 33
+[33]  1 32  7 41 17 34 40 48 50 42 39 15 36 23  6 26  8 22
 Current file =  Dane_S2_50_10.csv 
-Output for the number of probes =  10000 
-Current temperature =  85  Current best =  3756 
-Current temperature =  72.25  Current best =  3599 
-Current temperature =  61.413  Current best =  3431 
-Current temperature =  52.201  Current best =  3604 
-Current temperature =  44.371  Current best =  3450 
-Current temperature =  37.715  Current best =  3511 
-Current temperature =  32.058  Current best =  3458 
-Current temperature =  27.249  Current best =  3407 
-Current temperature =  23.162  Current best =  3560 
-Current temperature =  19.687  Current best =  3403 
-Current temperature =  16.734  Current best =  3221 
-Current temperature =  14.224  Current best =  3134 
-Current temperature =  12.091  Current best =  3272 
-Current temperature =  10.277  Current best =  3167 
-Current temperature =  8.735  Current best =  3263 
-Current temperature =  7.425  Current best =  3160 
-Current temperature =  6.311  Current best =  3158 
-Current temperature =  5.365  Current best =  3066 
-Current temperature =  4.56  Current best =  3019 
-Current temperature =  3.876  Current best =  3009 
-Current temperature =  3.295  Current best =  2980 
-Current temperature =  2.8  Current best =  2978 
+Start temperature =  100 
+Output for the number of probes =  20000 
+Current temperature =  85  Current best =  3718 
+Current temperature =  72.25  Current best =  3702 
+Current temperature =  61.413  Current best =  3480 
+Current temperature =  52.201  Current best =  3619 
+Current temperature =  44.371  Current best =  3428 
+Current temperature =  37.715  Current best =  3478 
+Current temperature =  32.058  Current best =  3630 
+Current temperature =  27.249  Current best =  3380 
+Current temperature =  23.162  Current best =  3404 
+Current temperature =  19.687  Current best =  3382 
+Current temperature =  16.734  Current best =  3311 
+Current temperature =  14.224  Current best =  3280 
+Current temperature =  12.091  Current best =  3260 
+Current temperature =  10.277  Current best =  3159 
+Current temperature =  8.735  Current best =  3140 
+Current temperature =  7.425  Current best =  3179 
+Current temperature =  6.311  Current best =  3178 
+Current temperature =  5.365  Current best =  3009 
+Current temperature =  4.56  Current best =  3026 
+Current temperature =  3.876  Current best =  3023 
+Current temperature =  3.295  Current best =  3000 
+Current temperature =  2.8  Current best =  2984 
 Current temperature =  2.38  Current best =  2967 
-Current temperature =  2.023  Current best =  2947 
-Current temperature =  1.72  Current best =  2929 
+Current temperature =  2.023  Current best =  2967 
+Current temperature =  1.72  Current best =  2945 
 Current temperature =  1.462  Current best =  2928 
-Current temperature =  1.243  Current best =  2926 
-Current temperature =  1.056  Current best =  2923 
-Current temperature =  0.898  Current best =  2920 
+Current temperature =  1.243  Current best =  2941 
+Current temperature =  1.056  Current best =  2931 
+Current temperature =  0.898  Current best =  2921 
 Current temperature =  0.763  Current best =  2921 
-Current temperature =  0.649  Current best =  2919 
-Current temperature =  0.551  Current best =  2922 
-Current temperature =  0.469  Current best =  2919 
-Current temperature =  0.398  Current best =  2920 
-Current temperature =  0.339  Current best =  2919 
-Current temperature =  0.288  Current best =  2919 
-Current temperature =  0.245  Current best =  2919 
-Current temperature =  0.208  Current best =  2919 
-Current temperature =  0.177  Current best =  2919 
-Current temperature =  0.15  Current best =  2919 
-Current temperature =  0.128  Current best =  2919 
-Current temperature =  0.109  Current best =  2919 
-Current temperature =  0.092  Current best =  2919 
-Current temperature =  0.078  Current best =  2919 
-Current temperature =  0.067  Current best =  2919 
-Current temperature =  0.057  Current best =  2919 
-Current temperature =  0.048  Current best =  2919 
-Current temperature =  0.041  Current best =  2919 
-Current temperature =  0.035  Current best =  2919 
-Current temperature =  0.03  Current best =  2919 
-Current temperature =  0.025  Current best =  2919 
-Current temperature =  0.021  Current best =  2919 
-Current temperature =  0.018  Current best =  2919 
-Current temperature =  0.015  Current best =  2919 
-Current temperature =  0.013  Current best =  2919 
-Current temperature =  0.011  Current best =  2919 
-Current temperature =  0.009  Current best =  2919 
+Current temperature =  0.649  Current best =  2924 
+Current temperature =  0.551  Current best =  2921 
+Current temperature =  0.469  Current best =  2921 
+Current temperature =  0.398  Current best =  2921 
+Current temperature =  0.339  Current best =  2921 
+Current temperature =  0.288  Current best =  2921 
+Current temperature =  0.245  Current best =  2921 
+Current temperature =  0.208  Current best =  2921 
+Current temperature =  0.177  Current best =  2921 
+Current temperature =  0.15  Current best =  2921 
+Current temperature =  0.128  Current best =  2921 
+Current temperature =  0.109  Current best =  2921 
+Current temperature =  0.092  Current best =  2921 
+Current temperature =  0.078  Current best =  2921 
+Current temperature =  0.067  Current best =  2921 
+Current temperature =  0.057  Current best =  2921 
+Current temperature =  0.048  Current best =  2921 
+Current temperature =  0.041  Current best =  2921 
+Current temperature =  0.035  Current best =  2921 
+Current temperature =  0.03  Current best =  2921 
+Current temperature =  0.025  Current best =  2921 
+Current temperature =  0.021  Current best =  2921 
+Current temperature =  0.018  Current best =  2921 
+Current temperature =  0.015  Current best =  2921 
+Current temperature =  0.013  Current best =  2921 
+Current temperature =  0.011  Current best =  2921 
+Current temperature =  0.009  Current best =  2921 
 Optimal schedule 
- [1]  4 28 24 10 31  3 45 39 46 25 38 42 20 32
-[15] 47  2  1 11  9 13 33 29 19 18  7 15 50 34
-[29] 40  5 16 44 22 49 35 17 14 43 48 26 41 37
-[43]  6 27 36 23 30 12 21  8
+ [1]  4 28 25 46 10  2 24 11 33 38  3  6 45 43 40 16 41 47  5 32  9 20 19  7 44 35 49 13  1 17 14 29
+[33] 15 18 50 34 30 26 27 36 48 42 22 31 23 37 12 21 39  8
 Current file =  Dane_S2_100_20.csv 
-Output for the number of probes =  1000 
-Current temperature =  85  Current best =  7758 
-Current temperature =  72.25  Current best =  7885 
-Current temperature =  61.413  Current best =  7639 
-Current temperature =  52.201  Current best =  7648 
-Current temperature =  44.371  Current best =  7338 
-Current temperature =  37.715  Current best =  7470 
-Current temperature =  32.058  Current best =  7406 
-Current temperature =  27.249  Current best =  7456 
-Current temperature =  23.162  Current best =  7345 
-Current temperature =  19.687  Current best =  7118 
-Current temperature =  16.734  Current best =  7067 
-Current temperature =  14.224  Current best =  7186 
-Current temperature =  12.091  Current best =  6983 
-Current temperature =  10.277  Current best =  7041 
-Current temperature =  8.735  Current best =  7032 
-Current temperature =  7.425  Current best =  6819 
-Current temperature =  6.311  Current best =  6920 
-Current temperature =  5.365  Current best =  6858 
-Current temperature =  4.56  Current best =  6850 
-Current temperature =  3.876  Current best =  6818 
-Current temperature =  3.295  Current best =  6748 
-Current temperature =  2.8  Current best =  6681 
-Current temperature =  2.38  Current best =  6654 
-Current temperature =  2.023  Current best =  6656 
-Current temperature =  1.72  Current best =  6652 
-Current temperature =  1.462  Current best =  6646 
-Current temperature =  1.243  Current best =  6643 
-Current temperature =  1.056  Current best =  6616 
-Current temperature =  0.898  Current best =  6595 
-Current temperature =  0.763  Current best =  6595 
-Current temperature =  0.649  Current best =  6595 
-Current temperature =  0.551  Current best =  6594 
-Current temperature =  0.469  Current best =  6594 
-Current temperature =  0.398  Current best =  6594 
-Current temperature =  0.339  Current best =  6594 
-Current temperature =  0.288  Current best =  6594 
-Current temperature =  0.245  Current best =  6594 
-Current temperature =  0.208  Current best =  6594 
-Current temperature =  0.177  Current best =  6594 
-Current temperature =  0.15  Current best =  6594 
-Current temperature =  0.128  Current best =  6594 
-Current temperature =  0.109  Current best =  6594 
-Current temperature =  0.092  Current best =  6582 
-Current temperature =  0.078  Current best =  6577 
-Current temperature =  0.067  Current best =  6577 
-Current temperature =  0.057  Current best =  6577 
-Current temperature =  0.048  Current best =  6577 
-Current temperature =  0.041  Current best =  6577 
-Current temperature =  0.035  Current best =  6577 
-Current temperature =  0.03  Current best =  6577 
-Current temperature =  0.025  Current best =  6569 
-Current temperature =  0.021  Current best =  6569 
-Current temperature =  0.018  Current best =  6569 
-Current temperature =  0.015  Current best =  6569 
-Current temperature =  0.013  Current best =  6569 
-Current temperature =  0.011  Current best =  6569 
-Current temperature =  0.009  Current best =  6569 
-Optimal schedule 
-  [1]  25  64  98  32  14  21  58  11  65  12  50   2  95  30  80   1  53  69  33
- [20]  74  36  39  10  92  97  94   3  45  87  38  56   4   7  61  41  49  37  51
- [39]   9   8  86  46  99  47  75  23  88  62  81  28  27  59  79  60   5  70  22
- [58]  29  16  40  66  55  82  48  90  83   6  85  15  20  89  34  17  35  52  72
- [77]  93  76 100  96  57  68  31  67  77  13  26  24  42  43  91  71  73  19  54
- [96]  84  63  18  78  44
-Current file =  Dane_S2_100_20.csv 
+Start temperature =  100 
 Output for the number of probes =  5000 
-Current temperature =  85  Current best =  7694 
-Current temperature =  72.25  Current best =  7632 
-Current temperature =  61.413  Current best =  7541 
-Current temperature =  52.201  Current best =  7700 
-Current temperature =  44.371  Current best =  7474 
-Current temperature =  37.715  Current best =  7509 
-Current temperature =  32.058  Current best =  7342 
-Current temperature =  27.249  Current best =  7389 
-Current temperature =  23.162  Current best =  7278 
-Current temperature =  19.687  Current best =  7331 
-Current temperature =  16.734  Current best =  7323 
-Current temperature =  14.224  Current best =  7247 
-Current temperature =  12.091  Current best =  7166 
-Current temperature =  10.277  Current best =  6940 
-Current temperature =  8.735  Current best =  6836 
-Current temperature =  7.425  Current best =  7007 
-Current temperature =  6.311  Current best =  6808 
-Current temperature =  5.365  Current best =  6842 
-Current temperature =  4.56  Current best =  6768 
-Current temperature =  3.876  Current best =  6788 
-Current temperature =  3.295  Current best =  6714 
-Current temperature =  2.8  Current best =  6697 
-Current temperature =  2.38  Current best =  6674 
-Current temperature =  2.023  Current best =  6643 
-Current temperature =  1.72  Current best =  6609 
-Current temperature =  1.462  Current best =  6569 
-Current temperature =  1.243  Current best =  6567 
-Current temperature =  1.056  Current best =  6547 
-Current temperature =  0.898  Current best =  6525 
-Current temperature =  0.763  Current best =  6511 
-Current temperature =  0.649  Current best =  6509 
-Current temperature =  0.551  Current best =  6507 
-Current temperature =  0.469  Current best =  6507 
-Current temperature =  0.398  Current best =  6507 
-Current temperature =  0.339  Current best =  6507 
-Current temperature =  0.288  Current best =  6507 
-Current temperature =  0.245  Current best =  6507 
-Current temperature =  0.208  Current best =  6507 
-Current temperature =  0.177  Current best =  6507 
-Current temperature =  0.15  Current best =  6507 
-Current temperature =  0.128  Current best =  6507 
-Current temperature =  0.109  Current best =  6507 
-Current temperature =  0.092  Current best =  6507 
-Current temperature =  0.078  Current best =  6507 
-Current temperature =  0.067  Current best =  6507 
-Current temperature =  0.057  Current best =  6507 
-Current temperature =  0.048  Current best =  6507 
-Current temperature =  0.041  Current best =  6507 
-Current temperature =  0.035  Current best =  6507 
-Current temperature =  0.03  Current best =  6507 
-Current temperature =  0.025  Current best =  6507 
-Current temperature =  0.021  Current best =  6507 
-Current temperature =  0.018  Current best =  6507 
-Current temperature =  0.015  Current best =  6507 
-Current temperature =  0.013  Current best =  6507 
-Current temperature =  0.011  Current best =  6507 
-Current temperature =  0.009  Current best =  6507 
+Current temperature =  85  Current best =  7780 
+Current temperature =  72.25  Current best =  7643 
+Current temperature =  61.413  Current best =  7359 
+Current temperature =  52.201  Current best =  7370 
+Current temperature =  44.371  Current best =  7464 
+Current temperature =  37.715  Current best =  7445 
+Current temperature =  32.058  Current best =  7405 
+Current temperature =  27.249  Current best =  7279 
+Current temperature =  23.162  Current best =  7358 
+Current temperature =  19.687  Current best =  7380 
+Current temperature =  16.734  Current best =  7174 
+Current temperature =  14.224  Current best =  7139 
+Current temperature =  12.091  Current best =  7150 
+Current temperature =  10.277  Current best =  7024 
+Current temperature =  8.735  Current best =  7007 
+Current temperature =  7.425  Current best =  6933 
+Current temperature =  6.311  Current best =  6907 
+Current temperature =  5.365  Current best =  6827 
+Current temperature =  4.56  Current best =  6808 
+Current temperature =  3.876  Current best =  6752 
+Current temperature =  3.295  Current best =  6738 
+Current temperature =  2.8  Current best =  6740 
+Current temperature =  2.38  Current best =  6706 
+Current temperature =  2.023  Current best =  6690 
+Current temperature =  1.72  Current best =  6688 
+Current temperature =  1.462  Current best =  6697 
+Current temperature =  1.243  Current best =  6686 
+Current temperature =  1.056  Current best =  6678 
+Current temperature =  0.898  Current best =  6672 
+Current temperature =  0.763  Current best =  6658 
+Current temperature =  0.649  Current best =  6658 
+Current temperature =  0.551  Current best =  6658 
+Current temperature =  0.469  Current best =  6658 
+Current temperature =  0.398  Current best =  6658 
+Current temperature =  0.339  Current best =  6658 
+Current temperature =  0.288  Current best =  6658 
+Current temperature =  0.245  Current best =  6658 
+Current temperature =  0.208  Current best =  6658 
+Current temperature =  0.177  Current best =  6658 
+Current temperature =  0.15  Current best =  6658 
+Current temperature =  0.128  Current best =  6658 
+Current temperature =  0.109  Current best =  6658 
+Current temperature =  0.092  Current best =  6658 
+Current temperature =  0.078  Current best =  6658 
+Current temperature =  0.067  Current best =  6658 
+Current temperature =  0.057  Current best =  6658 
+Current temperature =  0.048  Current best =  6658 
+Current temperature =  0.041  Current best =  6658 
+Current temperature =  0.035  Current best =  6658 
+Current temperature =  0.03  Current best =  6658 
+Current temperature =  0.025  Current best =  6658 
+Current temperature =  0.021  Current best =  6658 
+Current temperature =  0.018  Current best =  6658 
+Current temperature =  0.015  Current best =  6658 
+Current temperature =  0.013  Current best =  6658 
+Current temperature =  0.011  Current best =  6658 
+Current temperature =  0.009  Current best =  6658 
 Optimal schedule 
-  [1]  98  33  64  32  14  97  39  12  65  10   2  74  50  41  45   1  69  61
- [19]  58  11  16  94   6  46  30   9  49  38  90  15   8  29  34  72  92  71
- [37]  62  35  56  52  36  51  20  87  42  70   4  26  28  37  76  25 100  79
- [55]  80  55  31  78  40  85  53  13  54  66   5  48  24  21  17  84  68  23
- [73]  22  27  43  96  83  86  93  88  44  91  57   3   7  73  47  81  60  59
- [91]  82  95  99  63  75  77  19  89  18  67
+  [1]  51  14  12  64  32  53  50  33   1   7  98  97  30  95  58  38  39   5   3  57  90  10  49
+ [24]  37  41  68   8  25  42  45  92  69  59  15  70  28  56  74  46  35  76  16   2  60  99  94
+ [47]  52  72  65  22  27  71  36  23  29  24  93  48  47   6   4  11  40  86  26  82  91  73  88
+ [70]  75  87  43  81  80  31  18  61  20  13  21  79  83   9  34  89  54  19  85  66  77  96 100
+ [93]  67  55  84  17  78  63  44  62
 Current file =  Dane_S2_100_20.csv 
+Start temperature =  100 
 Output for the number of probes =  10000 
-Current temperature =  85  Current best =  7439 
-Current temperature =  72.25  Current best =  7804 
-Current temperature =  61.413  Current best =  7689 
-Current temperature =  52.201  Current best =  7626 
-Current temperature =  44.371  Current best =  7598 
-Current temperature =  37.715  Current best =  7471 
-Current temperature =  32.058  Current best =  7513 
-Current temperature =  27.249  Current best =  7443 
-Current temperature =  23.162  Current best =  7365 
-Current temperature =  19.687  Current best =  7284 
-Current temperature =  16.734  Current best =  7171 
-Current temperature =  14.224  Current best =  7118 
-Current temperature =  12.091  Current best =  7147 
-Current temperature =  10.277  Current best =  7021 
-Current temperature =  8.735  Current best =  6985 
-Current temperature =  7.425  Current best =  6926 
-Current temperature =  6.311  Current best =  6903 
-Current temperature =  5.365  Current best =  6801 
-Current temperature =  4.56  Current best =  6735 
-Current temperature =  3.876  Current best =  6701 
-Current temperature =  3.295  Current best =  6631 
-Current temperature =  2.8  Current best =  6581 
-Current temperature =  2.38  Current best =  6590 
-Current temperature =  2.023  Current best =  6575 
-Current temperature =  1.72  Current best =  6571 
-Current temperature =  1.462  Current best =  6571 
-Current temperature =  1.243  Current best =  6571 
-Current temperature =  1.056  Current best =  6571 
-Current temperature =  0.898  Current best =  6571 
-Current temperature =  0.763  Current best =  6572 
-Current temperature =  0.649  Current best =  6571 
-Current temperature =  0.551  Current best =  6571 
-Current temperature =  0.469  Current best =  6571 
-Current temperature =  0.398  Current best =  6571 
-Current temperature =  0.339  Current best =  6571 
-Current temperature =  0.288  Current best =  6571 
-Current temperature =  0.245  Current best =  6571 
-Current temperature =  0.208  Current best =  6571 
-Current temperature =  0.177  Current best =  6571 
-Current temperature =  0.15  Current best =  6571 
-Current temperature =  0.128  Current best =  6571 
-Current temperature =  0.109  Current best =  6571 
-Current temperature =  0.092  Current best =  6571 
-Current temperature =  0.078  Current best =  6571 
-Current temperature =  0.067  Current best =  6571 
-Current temperature =  0.057  Current best =  6571 
-Current temperature =  0.048  Current best =  6571 
-Current temperature =  0.041  Current best =  6571 
-Current temperature =  0.035  Current best =  6555 
-Current temperature =  0.03  Current best =  6551 
-Current temperature =  0.025  Current best =  6541 
-Current temperature =  0.021  Current best =  6517 
-Current temperature =  0.018  Current best =  6517 
-Current temperature =  0.015  Current best =  6514 
-Current temperature =  0.013  Current best =  6514 
-Current temperature =  0.011  Current best =  6514 
-Current temperature =  0.009  Current best =  6514 
+Current temperature =  85  Current best =  7741 
+Current temperature =  72.25  Current best =  7643 
+Current temperature =  61.413  Current best =  7536 
+Current temperature =  52.201  Current best =  7787 
+Current temperature =  44.371  Current best =  7393 
+Current temperature =  37.715  Current best =  7581 
+Current temperature =  32.058  Current best =  7448 
+Current temperature =  27.249  Current best =  7206 
+Current temperature =  23.162  Current best =  7337 
+Current temperature =  19.687  Current best =  7270 
+Current temperature =  16.734  Current best =  7144 
+Current temperature =  14.224  Current best =  7044 
+Current temperature =  12.091  Current best =  7062 
+Current temperature =  10.277  Current best =  7002 
+Current temperature =  8.735  Current best =  6954 
+Current temperature =  7.425  Current best =  6890 
+Current temperature =  6.311  Current best =  6869 
+Current temperature =  5.365  Current best =  6832 
+Current temperature =  4.56  Current best =  6844 
+Current temperature =  3.876  Current best =  6770 
+Current temperature =  3.295  Current best =  6721 
+Current temperature =  2.8  Current best =  6734 
+Current temperature =  2.38  Current best =  6721 
+Current temperature =  2.023  Current best =  6682 
+Current temperature =  1.72  Current best =  6666 
+Current temperature =  1.462  Current best =  6659 
+Current temperature =  1.243  Current best =  6632 
+Current temperature =  1.056  Current best =  6613 
+Current temperature =  0.898  Current best =  6609 
+Current temperature =  0.763  Current best =  6604 
+Current temperature =  0.649  Current best =  6604 
+Current temperature =  0.551  Current best =  6604 
+Current temperature =  0.469  Current best =  6604 
+Current temperature =  0.398  Current best =  6604 
+Current temperature =  0.339  Current best =  6604 
+Current temperature =  0.288  Current best =  6604 
+Current temperature =  0.245  Current best =  6604 
+Current temperature =  0.208  Current best =  6604 
+Current temperature =  0.177  Current best =  6604 
+Current temperature =  0.15  Current best =  6602 
+Current temperature =  0.128  Current best =  6600 
+Current temperature =  0.109  Current best =  6599 
+Current temperature =  0.092  Current best =  6599 
+Current temperature =  0.078  Current best =  6592 
+Current temperature =  0.067  Current best =  6592 
+Current temperature =  0.057  Current best =  6592 
+Current temperature =  0.048  Current best =  6592 
+Current temperature =  0.041  Current best =  6592 
+Current temperature =  0.035  Current best =  6592 
+Current temperature =  0.03  Current best =  6592 
+Current temperature =  0.025  Current best =  6592 
+Current temperature =  0.021  Current best =  6592 
+Current temperature =  0.018  Current best =  6592 
+Current temperature =  0.015  Current best =  6592 
+Current temperature =  0.013  Current best =  6592 
+Current temperature =  0.011  Current best =  6592 
+Current temperature =  0.009  Current best =  6592 
 Optimal schedule 
-  [1]  98  14  12  64  50  33   5  74  97   8  28   1   3  90  79  69  52  76
- [19]  95  61  99  11  70  29  21  68  20  94  31  32   2  35  10  47  17  16
- [37]  78  71  23  13  72  60  46  15  65  37  56  41   4 100  85  45  49  75
- [55]  40  42  92  36  26  86  67  91  25  96  30  22  38  58  39   7   6  54
- [73]  59  87  62  66  83  55   9  51  43  24  93  34  48  81  84  82  88  57
- [91]  53  89  27  19  80  73  44  77  63  18
+  [1]  33  14  98  64  36  69  97  62  18  12  32   3  74  50   1  53  72  51  76  22  23  52  15
+ [24]  40   2  75  45  56  90  30  83  41  95  39   8  29  58  70  17  78  31  66  85  54  20  57
+ [47]  46  42  88 100  38  94  81  27  61  91  47  13  16  59  67  28  60  82  65   4  49  86  68
+ [70]   5  73  89  10  80  44  55  71  99   7  26  21   9  84  37  35  25  43  92  34  48  79  24
+ [93]  93   6  19  87  11  96  77  63
+Current file =  Dane_S2_100_20.csv 
+Start temperature =  100 
+Output for the number of probes =  20000 
+Current temperature =  85  Current best =  7634 
+Current temperature =  72.25  Current best =  7581 
+Current temperature =  61.413  Current best =  7642 
+Current temperature =  52.201  Current best =  7622 
+Current temperature =  44.371  Current best =  7395 
+Current temperature =  37.715  Current best =  7441 
+Current temperature =  32.058  Current best =  7443 
+Current temperature =  27.249  Current best =  7388 
+Current temperature =  23.162  Current best =  7124 
+Current temperature =  19.687  Current best =  7217 
+Current temperature =  16.734  Current best =  7163 
+Current temperature =  14.224  Current best =  7212 
+Current temperature =  12.091  Current best =  7119 
+Current temperature =  10.277  Current best =  6937 
+Current temperature =  8.735  Current best =  6988 
+Current temperature =  7.425  Current best =  6974 
+Current temperature =  6.311  Current best =  6837 
+Current temperature =  5.365  Current best =  6782 
+Current temperature =  4.56  Current best =  6733 
+Current temperature =  3.876  Current best =  6622 
+Current temperature =  3.295  Current best =  6602 
+Current temperature =  2.8  Current best =  6587 
+Current temperature =  2.38  Current best =  6587 
+Current temperature =  2.023  Current best =  6584 
+Current temperature =  1.72  Current best =  6574 
+Current temperature =  1.462  Current best =  6566 
+Current temperature =  1.243  Current best =  6561 
+Current temperature =  1.056  Current best =  6561 
+Current temperature =  0.898  Current best =  6561 
+Current temperature =  0.763  Current best =  6560 
+Current temperature =  0.649  Current best =  6560 
+Current temperature =  0.551  Current best =  6559 
+Current temperature =  0.469  Current best =  6559 
+Current temperature =  0.398  Current best =  6559 
+Current temperature =  0.339  Current best =  6560 
+Current temperature =  0.288  Current best =  6559 
+Current temperature =  0.245  Current best =  6559 
+Current temperature =  0.208  Current best =  6559 
+Current temperature =  0.177  Current best =  6559 
+Current temperature =  0.15  Current best =  6559 
+Current temperature =  0.128  Current best =  6559 
+Current temperature =  0.109  Current best =  6559 
+Current temperature =  0.092  Current best =  6559 
+Current temperature =  0.078  Current best =  6559 
+Current temperature =  0.067  Current best =  6559 
+Current temperature =  0.057  Current best =  6559 
+Current temperature =  0.048  Current best =  6559 
+Current temperature =  0.041  Current best =  6559 
+Current temperature =  0.035  Current best =  6556 
+Current temperature =  0.03  Current best =  6552 
+Current temperature =  0.025  Current best =  6552 
+Current temperature =  0.021  Current best =  6552 
+Current temperature =  0.018  Current best =  6552 
+Current temperature =  0.015  Current best =  6552 
+Current temperature =  0.013  Current best =  6552 
+Current temperature =  0.011  Current best =  6540 
+Current temperature =  0.009  Current best =  6539 
+Optimal schedule 
+  [1]  64  38  33  61  70  74  62  98  99  52  12   2  21  39  94  65  56  97  37  32  17  87  68
+ [24]  16   5  69  41  72  71   8  11  86  28  95  50  14  58   1  75  36  30   3  85  29  60  45
+ [47]  46  92  23   9  51  10  15   4  82  31  34  53  49  25  35  91  90  26  48  79  40  59  76
+ [70]  78   7  44  47   6  93  42  57  27  83  96  66  81  84  22  24  55  80  88 100  63  77  89
+ [93]  20  43  19  73  13  54  67  18
 Current file =  Dane_S2_200_20.csv 
-Output for the number of probes =  1000 
-Current temperature =  85  Current best =  13386 
-Current temperature =  72.25  Current best =  13379 
-Current temperature =  61.413  Current best =  13482 
-Current temperature =  52.201  Current best =  13299 
-Current temperature =  44.371  Current best =  13552 
-Current temperature =  37.715  Current best =  12966 
-Current temperature =  32.058  Current best =  12894 
-Current temperature =  27.249  Current best =  13094 
-Current temperature =  23.162  Current best =  12770 
-Current temperature =  19.687  Current best =  12779 
-Current temperature =  16.734  Current best =  12686 
-Current temperature =  14.224  Current best =  12470 
-Current temperature =  12.091  Current best =  12534 
-Current temperature =  10.277  Current best =  12385 
-Current temperature =  8.735  Current best =  12272 
-Current temperature =  7.425  Current best =  12255 
-Current temperature =  6.311  Current best =  12269 
-Current temperature =  5.365  Current best =  12206 
-Current temperature =  4.56  Current best =  12112 
-Current temperature =  3.876  Current best =  12078 
-Current temperature =  3.295  Current best =  12066 
-Current temperature =  2.8  Current best =  11994 
-Current temperature =  2.38  Current best =  11956 
-Current temperature =  2.023  Current best =  11920 
-Current temperature =  1.72  Current best =  11903 
-Current temperature =  1.462  Current best =  11844 
-Current temperature =  1.243  Current best =  11818 
-Current temperature =  1.056  Current best =  11805 
+Start temperature =  100 
+Output for the number of probes =  5000 
+Current temperature =  85  Current best =  13006 
+Current temperature =  72.25  Current best =  13260 
+Current temperature =  61.413  Current best =  13282 
+Current temperature =  52.201  Current best =  12989 
+Current temperature =  44.371  Current best =  13146 
+Current temperature =  37.715  Current best =  13160 
+Current temperature =  32.058  Current best =  13154 
+Current temperature =  27.249  Current best =  13113 
+Current temperature =  23.162  Current best =  13069 
+Current temperature =  19.687  Current best =  12826 
+Current temperature =  16.734  Current best =  12683 
+Current temperature =  14.224  Current best =  12705 
+Current temperature =  12.091  Current best =  12509 
+Current temperature =  10.277  Current best =  12490 
+Current temperature =  8.735  Current best =  12451 
+Current temperature =  7.425  Current best =  12361 
+Current temperature =  6.311  Current best =  12297 
+Current temperature =  5.365  Current best =  12217 
+Current temperature =  4.56  Current best =  12148 
+Current temperature =  3.876  Current best =  12113 
+Current temperature =  3.295  Current best =  12056 
+Current temperature =  2.8  Current best =  12014 
+Current temperature =  2.38  Current best =  12008 
+Current temperature =  2.023  Current best =  11996 
+Current temperature =  1.72  Current best =  11984 
+Current temperature =  1.462  Current best =  11982 
+Current temperature =  1.243  Current best =  11980 
+Current temperature =  1.056  Current best =  11982 
+Current temperature =  0.898  Current best =  11979 
+Current temperature =  0.763  Current best =  11967 
+Current temperature =  0.649  Current best =  11951 
+Current temperature =  0.551  Current best =  11943 
+Current temperature =  0.469  Current best =  11939 
+Current temperature =  0.398  Current best =  11926 
+Current temperature =  0.339  Current best =  11926 
+Current temperature =  0.288  Current best =  11923 
+Current temperature =  0.245  Current best =  11915 
+Current temperature =  0.208  Current best =  11915 
+Current temperature =  0.177  Current best =  11902 
+Current temperature =  0.15  Current best =  11894 
+Current temperature =  0.128  Current best =  11894 
+Current temperature =  0.109  Current best =  11882 
+Current temperature =  0.092  Current best =  11871 
+Current temperature =  0.078  Current best =  11871 
+Current temperature =  0.067  Current best =  11871 
+Current temperature =  0.057  Current best =  11871 
+Current temperature =  0.048  Current best =  11871 
+Current temperature =  0.041  Current best =  11871 
+Current temperature =  0.035  Current best =  11871 
+Current temperature =  0.03  Current best =  11867 
+Current temperature =  0.025  Current best =  11867 
+Current temperature =  0.021  Current best =  11849 
+Current temperature =  0.018  Current best =  11849 
+Current temperature =  0.015  Current best =  11838 
+Current temperature =  0.013  Current best =  11831 
+Current temperature =  0.011  Current best =  11826 
+Current temperature =  0.009  Current best =  11815 
+Optimal schedule 
+  [1]  45 102 153  93 160  20 179 189 106  21 178 171 117  89  61 155  68  41  12 144  27 119 187
+ [24]  36  37  49 159 133  72 165  26  79 188   9 185 132  30 190  60   3  48  65 184  81  51 140
+ [47]  91 180  98 170  50 162 135  71 145  86   4 121  77 131 113  39  25 110 157 104  33 120 141
+ [70] 183  10  74 127 161  90  76 109  87  14 108 164 195  15 173 116  58  78 103  24 194 152   5
+ [93] 124 177  35 115 126 118  94  42 107  83  18  82   8 149  63 154  55 146  11  70  19  38  88
+[116]  17  31  75  54 163  43 199 182  53  44 167 150 111  67 148 192 200 129 139  23  13  96  40
+[139] 151 175  52  56   2  16 172 114 158 186  95 122 136 196  97 123 100 166  64 143  80 147  29
+[162] 128 130  92 198 134  22  66  46 156  57 191  34 125  69 101  47 168  59 112 176 138  62 197
+[185]  73 193 174   1 169  99  85  84 181 137 105  32   7   6  28 142
+Current file =  Dane_S2_200_20.csv 
+Start temperature =  100 
+Output for the number of probes =  10000 
+Current temperature =  85  Current best =  13742 
+Current temperature =  72.25  Current best =  13449 
+Current temperature =  61.413  Current best =  13432 
+Current temperature =  52.201  Current best =  13150 
+Current temperature =  44.371  Current best =  13240 
+Current temperature =  37.715  Current best =  13041 
+Current temperature =  32.058  Current best =  12960 
+Current temperature =  27.249  Current best =  12878 
+Current temperature =  23.162  Current best =  12857 
+Current temperature =  19.687  Current best =  12789 
+Current temperature =  16.734  Current best =  12945 
+Current temperature =  14.224  Current best =  12687 
+Current temperature =  12.091  Current best =  12454 
+Current temperature =  10.277  Current best =  12387 
+Current temperature =  8.735  Current best =  12333 
+Current temperature =  7.425  Current best =  12290 
+Current temperature =  6.311  Current best =  12183 
+Current temperature =  5.365  Current best =  12195 
+Current temperature =  4.56  Current best =  12102 
+Current temperature =  3.876  Current best =  12111 
+Current temperature =  3.295  Current best =  12033 
+Current temperature =  2.8  Current best =  12030 
+Current temperature =  2.38  Current best =  11986 
+Current temperature =  2.023  Current best =  11950 
+Current temperature =  1.72  Current best =  11933 
+Current temperature =  1.462  Current best =  11893 
+Current temperature =  1.243  Current best =  11872 
+Current temperature =  1.056  Current best =  11873 
+Current temperature =  0.898  Current best =  11867 
+Current temperature =  0.763  Current best =  11832 
+Current temperature =  0.649  Current best =  11819 
+Current temperature =  0.551  Current best =  11812 
+Current temperature =  0.469  Current best =  11793 
+Current temperature =  0.398  Current best =  11779 
+Current temperature =  0.339  Current best =  11775 
+Current temperature =  0.288  Current best =  11770 
+Current temperature =  0.245  Current best =  11765 
+Current temperature =  0.208  Current best =  11765 
+Current temperature =  0.177  Current best =  11762 
+Current temperature =  0.15  Current best =  11762 
+Current temperature =  0.128  Current best =  11761 
+Current temperature =  0.109  Current best =  11756 
+Current temperature =  0.092  Current best =  11756 
+Current temperature =  0.078  Current best =  11755 
+Current temperature =  0.067  Current best =  11753 
+Current temperature =  0.057  Current best =  11753 
+Current temperature =  0.048  Current best =  11752 
+Current temperature =  0.041  Current best =  11752 
+Current temperature =  0.035  Current best =  11752 
+Current temperature =  0.03  Current best =  11752 
+Current temperature =  0.025  Current best =  11752 
+Current temperature =  0.021  Current best =  11752 
+Current temperature =  0.018  Current best =  11752 
+Current temperature =  0.015  Current best =  11750 
+Current temperature =  0.013  Current best =  11750 
+Current temperature =  0.011  Current best =  11750 
+Current temperature =  0.009  Current best =  11750 
+Optimal schedule 
+  [1]  44 120  77  37 156 113  30 184 103  32 155 117 130  72  50  51 162 177 199 106  70  48 101
+ [24]  80 159  74 173  99  14   9 102  45 148 180 157 171 118  65  16   3  42  47  25 136  34  89
+ [47]  98  54  97 104 109  61  17 163  52 142  35 127  87 185  57  19  73 112 110  24  58  46 107
+ [70]  31 138  86  62 167 125 134   4  18 124   8 133 194  43 114 200  20 149 105 135  41 158 151
+ [93]  63  96  15 168 187 179  92 121  28 119 196 192  95  39  11 123 181 178  10 144 195   7 154
+[116]  76 139   5 188  67 131 153 111 146 129  71 190  21 152 143 175 140  40  83  64  33 182 189
+[139] 100 169 193  88  53 145 160 198  23  82  81  90 126  66  27  36  56 150  94 172 176 183 108
+[162]  38 132  29 165  13  84 115  12  22 166  75 116 197  26  55 186 191 170 161  60   1 147  78
+[185]  93  79 128  68 141  91   2 174  49  85   6 137  69 122 164  59
+Current file =  Dane_S2_200_20.csv 
+Start temperature =  100 
+Output for the number of probes =  20000 
+Current temperature =  85  Current best =  13727 
+Current temperature =  72.25  Current best =  13320 
+Current temperature =  61.413  Current best =  13423 
+Current temperature =  52.201  Current best =  12932 
+Current temperature =  44.371  Current best =  12943 
+Current temperature =  37.715  Current best =  13266 
+Current temperature =  32.058  Current best =  12985 
+Current temperature =  27.249  Current best =  13026 
+Current temperature =  23.162  Current best =  12972 
+Current temperature =  19.687  Current best =  12626 
+Current temperature =  16.734  Current best =  12884 
+Current temperature =  14.224  Current best =  12490 
+Current temperature =  12.091  Current best =  12482 
+Current temperature =  10.277  Current best =  12451 
+Current temperature =  8.735  Current best =  12357 
+Current temperature =  7.425  Current best =  12278 
+Current temperature =  6.311  Current best =  12285 
+Current temperature =  5.365  Current best =  12294 
+Current temperature =  4.56  Current best =  12045 
+Current temperature =  3.876  Current best =  12038 
+Current temperature =  3.295  Current best =  11987 
+Current temperature =  2.8  Current best =  11974 
+Current temperature =  2.38  Current best =  11906 
+Current temperature =  2.023  Current best =  11877 
+Current temperature =  1.72  Current best =  11850 
+Current temperature =  1.462  Current best =  11861 
+Current temperature =  1.243  Current best =  11833 
+Current temperature =  1.056  Current best =  11823 
 Current temperature =  0.898  Current best =  11796 
-Current temperature =  0.763  Current best =  11781 
-Current temperature =  0.649  Current best =  11781 
-Current temperature =  0.551  Current best =  11781 
-Current temperature =  0.469  Current best =  11781 
-Current temperature =  0.398  Current best =  11781 
-Current temperature =  0.339  Current best =  11781 
-Current temperature =  0.288  Current best =  11781 
-Current temperature =  0.245  Current best =  11775 
-Current temperature =  0.208  Current best =  11768 
-Current temperature =  0.177  Current best =  11767 
-Current temperature =  0.15  Current best =  11766 
-Current temperature =  0.128  Current best =  11766 
-Current temperature =  0.109  Current best =  11766 
-Current temperature =  0.092  Current best =  11760 
-Current temperature =  0.078  Current best =  11760 
-Current temperature =  0.067  Current best =  11760 
-Current temperature =  0.057  Current best =  11760 
-Current temperature =  0.048  Current best =  11758 
-Current temperature =  0.041  Current best =  11758 
-Current temperature =  0.035  Current best =  11758 
-Current temperature =  0.03  Current best =  11756 
-Current temperature =  0.025  Current best =  11749 
-Current temperature =  0.021  Current best =  11749 
-Current temperature =  0.018  Current best =  11749 
-Current temperature =  0.015  Current best =  11740 
-Current temperature =  0.013  Current best =  11739 
-Current temperature =  0.011  Current best =  11739 
-Current temperature =  0.009  Current best =  11739 
+Current temperature =  0.763  Current best =  11789 
+Current temperature =  0.649  Current best =  11777 
+Current temperature =  0.551  Current best =  11770 
+Current temperature =  0.469  Current best =  11764 
+Current temperature =  0.398  Current best =  11759 
+Current temperature =  0.339  Current best =  11757 
+Current temperature =  0.288  Current best =  11745 
+Current temperature =  0.245  Current best =  11745 
+Current temperature =  0.208  Current best =  11723 
+Current temperature =  0.177  Current best =  11723 
+Current temperature =  0.15  Current best =  11723 
+Current temperature =  0.128  Current best =  11714 
+Current temperature =  0.109  Current best =  11714 
+Current temperature =  0.092  Current best =  11714 
+Current temperature =  0.078  Current best =  11714 
+Current temperature =  0.067  Current best =  11707 
+Current temperature =  0.057  Current best =  11707 
+Current temperature =  0.048  Current best =  11707 
+Current temperature =  0.041  Current best =  11707 
+Current temperature =  0.035  Current best =  11707 
+Current temperature =  0.03  Current best =  11707 
+Current temperature =  0.025  Current best =  11707 
+Current temperature =  0.021  Current best =  11707 
+Current temperature =  0.018  Current best =  11707 
+Current temperature =  0.015  Current best =  11707 
+Current temperature =  0.013  Current best =  11707 
+Current temperature =  0.011  Current best =  11707 
+Current temperature =  0.009  Current best =  11707 
 Optimal schedule 
-  [1] 162  45 132 188 127  86  72  50  30 171 133 195  32  48 105 121 120 190
- [19] 159 103 111  42  39 107  31 117 131 135   4  88  51 114 161  93  91  37
- [37] 145  19  15 189 199  73 104  99  27 106 112 192  24 198  44  23  89  18
- [55]  35   7  79 179 194  84 165 196 102  80 157 163 150 177 129 155 128 184
- [73]   8 109 180 146  57  47  10 191 173  78 140 158  43  40  58 153 185 141
- [91] 144 148  62 178  29 113 186 164   3 197  26  96 130  65 183  97 175  64
-[109] 122  14  98  36  68 116 156 125  54  17  82  55  22  92   5  77  95  21
-[127] 124 200 136  94  46 167  25 123  87 119 126  16  41 147 101 154 138 110
-[145]  12  56  13  53  52  11 187  33 176 108 149 170  60 193 160  34   2  90
-[163]  59  85 181 166  63   1  75 143 115  69  67 139 169 168 152  38  83   9
-[181]  61 137  66 182  76 142 134 151  81 100  20  70  74   6  28 118  49 172
-[199]  71 174
-Current file =  Dane_S2_200_20.csv 
-Output for the number of probes =  5000 
-Current temperature =  85  Current best =  13506 
-Current temperature =  72.25  Current best =  13232 
-Current temperature =  61.413  Current best =  13246 
-Current temperature =  52.201  Current best =  13443 
-Current temperature =  44.371  Current best =  13310 
-Current temperature =  37.715  Current best =  13030 
-Current temperature =  32.058  Current best =  13120 
-Current temperature =  27.249  Current best =  12985 
-Current temperature =  23.162  Current best =  12917 
-Current temperature =  19.687  Current best =  12969 
-Current temperature =  16.734  Current best =  12596 
-Current temperature =  14.224  Current best =  12465 
-Current temperature =  12.091  Current best =  12461 
-Current temperature =  10.277  Current best =  12314 
-Current temperature =  8.735  Current best =  12361 
-Current temperature =  7.425  Current best =  12235 
-Current temperature =  6.311  Current best =  12037 
-Current temperature =  5.365  Current best =  12031 
-Current temperature =  4.56  Current best =  11959 
-Current temperature =  3.876  Current best =  11872 
-Current temperature =  3.295  Current best =  11842 
-Current temperature =  2.8  Current best =  11842 
-Current temperature =  2.38  Current best =  11780 
-Current temperature =  2.023  Current best =  11801 
-Current temperature =  1.72  Current best =  11787 
-Current temperature =  1.462  Current best =  11771 
-Current temperature =  1.243  Current best =  11756 
-Current temperature =  1.056  Current best =  11743 
-Current temperature =  0.898  Current best =  11739 
-Current temperature =  0.763  Current best =  11724 
-Current temperature =  0.649  Current best =  11718 
-Current temperature =  0.551  Current best =  11712 
-Current temperature =  0.469  Current best =  11685 
-Current temperature =  0.398  Current best =  11673 
-Current temperature =  0.339  Current best =  11662 
-Current temperature =  0.288  Current best =  11655 
-Current temperature =  0.245  Current best =  11655 
-Current temperature =  0.208  Current best =  11655 
-Current temperature =  0.177  Current best =  11654 
-Current temperature =  0.15  Current best =  11654 
-Current temperature =  0.128  Current best =  11652 
-Current temperature =  0.109  Current best =  11652 
-Current temperature =  0.092  Current best =  11652 
-Current temperature =  0.078  Current best =  11652 
-Current temperature =  0.067  Current best =  11652 
-Current temperature =  0.057  Current best =  11641 
-Current temperature =  0.048  Current best =  11637 
-Current temperature =  0.041  Current best =  11631 
-Current temperature =  0.035  Current best =  11630 
-Current temperature =  0.03  Current best =  11614 
-Current temperature =  0.025  Current best =  11609 
-Current temperature =  0.021  Current best =  11609 
-Current temperature =  0.018  Current best =  11601 
-Current temperature =  0.015  Current best =  11597 
-Current temperature =  0.013  Current best =  11590 
-Current temperature =  0.011  Current best =  11588 
-Current temperature =  0.009  Current best =  11586 
-Optimal schedule 
-  [1] 132 113 151 102  44  42  12 171 121 196 120  39  79  41 184 162  86  72 139  36  89 157 117 109 161  10 195 107 166  52  45  91 173
- [34]  99 178  53  19 116  17  80 192 127 200 106  33 191  71   6 119   9 128 163 164  61  58 188 148 199 156  21  30  98 131 141  50 168
- [67] 144  37  38  15  47 108  70  96   5  51 130 158 112 183 170  54 159 160  74 190 146  43 179  69 125 145  95 135  88  57 133 185  63
-[100] 140  83  90  97 187  84  82  18 101  77  55  68 126 124 177  46 114  20  62  78 193  59  40 154   3 129  60 153  56 175 155  31  28
-[133]  48 105 152  35 189  67 136  22 197  29 186  26  24  11  25 134  73  65  23  66  32  76 182   2 149  14  94 137 194 111   8 167 138
-[166] 150 123 180   1   4  92  75  81 169  49 143 100  64 115  85  34 181 198  93  16 110 176 142 172 104  87  13 147 122 118 103   7 165
-[199]  27 174
-Current file =  Dane_S2_200_20.csv 
-Output for the number of probes =  10000 
-Current temperature =  85  Current best =  13463 
-Current temperature =  72.25  Current best =  13296 
-Current temperature =  61.413  Current best =  13302 
-Current temperature =  52.201  Current best =  13207 
-Current temperature =  44.371  Current best =  13169 
-Current temperature =  37.715  Current best =  13181 
-Current temperature =  32.058  Current best =  13021 
-Current temperature =  27.249  Current best =  12813 
-Current temperature =  23.162  Current best =  12631 
-Current temperature =  19.687  Current best =  12911 
-Current temperature =  16.734  Current best =  12927 
-Current temperature =  14.224  Current best =  12655 
-Current temperature =  12.091  Current best =  12493 
-Current temperature =  10.277  Current best =  12424 
-Current temperature =  8.735  Current best =  12366 
-Current temperature =  7.425  Current best =  12234 
-Current temperature =  6.311  Current best =  12116 
-Current temperature =  5.365  Current best =  12081 
-Current temperature =  4.56  Current best =  12042 
-Current temperature =  3.876  Current best =  11981 
-Current temperature =  3.295  Current best =  11868 
-Current temperature =  2.8  Current best =  11854 
-Current temperature =  2.38  Current best =  11782 
-Current temperature =  2.023  Current best =  11760 
-Current temperature =  1.72  Current best =  11728 
-Current temperature =  1.462  Current best =  11722 
-Current temperature =  1.243  Current best =  11690 
-Current temperature =  1.056  Current best =  11691 
-Current temperature =  0.898  Current best =  11690 
-Current temperature =  0.763  Current best =  11665 
-Current temperature =  0.649  Current best =  11652 
-Current temperature =  0.551  Current best =  11648 
-Current temperature =  0.469  Current best =  11641 
-Current temperature =  0.398  Current best =  11634 
-Current temperature =  0.339  Current best =  11633 
-Current temperature =  0.288  Current best =  11633 
-Current temperature =  0.245  Current best =  11630 
-Current temperature =  0.208  Current best =  11630 
-Current temperature =  0.177  Current best =  11604 
-Current temperature =  0.15  Current best =  11597 
-Current temperature =  0.128  Current best =  11597 
-Current temperature =  0.109  Current best =  11597 
-Current temperature =  0.092  Current best =  11597 
-Current temperature =  0.078  Current best =  11597 
-Current temperature =  0.067  Current best =  11597 
-Current temperature =  0.057  Current best =  11597 
-Current temperature =  0.048  Current best =  11597 
-Current temperature =  0.041  Current best =  11597 
-Current temperature =  0.035  Current best =  11597 
-Current temperature =  0.03  Current best =  11597 
-Current temperature =  0.025  Current best =  11597 
-Current temperature =  0.021  Current best =  11597 
-Current temperature =  0.018  Current best =  11597 
-Current temperature =  0.015  Current best =  11597 
-Current temperature =  0.013  Current best =  11597 
-Current temperature =  0.011  Current best =  11597 
-Current temperature =  0.009  Current best =  11597 
-Optimal schedule 
-  [1] 131  86  45 132 188  37 153 162 120 196  34  30   9 183 160  64  72  35 106 171 156  24 177 199  39 159  90  44 195  73  74  20  46
- [34]  41 135 117  36 178 140 121 104   5  70  15 192 161 157  19 173  98 107 126 127  96 189  51 118  48  61  32 190  89 193 139  47  67
- [67]  42 180 130 145  78  12 158  29 141 146  25  31 102 133  94  52 175 155   2 124  99 166  80 148  60  66  56  68  18  84 123 152 179
-[100] 168  10 197 112  28 176 108 114 167 194  81  27 169  88 113 125  87  79 154   7  17   3 128 110 129 187 116 191 186  57 137  71  65
-[133]  77 184  14 138 151 170 103 182  55 115  95 172  50 109 144  82  76  11  13 198  23 101 185 119 150 111  97 164  16 149 163 105  43
-[166]  69  59 181   8  54  83  85  93  53  91  33  26  22 200  38 165  40  49 134 122  62  92 143  75  58   6   4   1  63 136 147  21 142
-[199] 100 174
-
+  [1] 162  14  30 132 188 114 128 130  39  68 131 121 199  67  19 158 196 102  36  37 117 133 171
+ [24]  48  32  86  99 161 190  42  98  12 113 139  61  58  72 166  15  27   2 106 167 170  50 185
+ [47]  89 184 140 155 153  70  55  47  17 145 125 146  81 179  41  25  10 126 191  20  79 151 135
+ [70] 195  44 192   9  45 124 107  56 160 105 123 194  96   7  64 173  88  21 127 109  77  73  59
+ [93] 175 163   6 189 134 156  43 177  87 165  18  13 157 112 187 178  60  63  57  93 176  78 110
+[116] 143  76  75 148   3 154 174  11  94 115 129   5 183  24 120  22 172 144 180 159 197  85  91
+[139]  97   4 168  29  90  46 137  31 186 181  74 108  65  34  71  82 103  84 101 182  69 138  80
+[162] 136   8  53 149  38  92  83  95 104  62  66 111 116 198 152  51 164 169  52  40 118  28 150
+[185]  54  35  49 122  16 200  23  33 100  26 193 119 141 142   1 147
