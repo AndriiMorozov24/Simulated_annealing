@@ -60,28 +60,42 @@ main <- function(.name, .k, .t) {
     return(max(temp)) # we are interested to accomplish all tasks, so we choose max of time
   }
   
+  # Fitness <- function(.vector){
+  #   sum <- 0
+  #   for(i in 1:N){
+  #     if(i != N){
+  #       sum <- sum + df[[.vector[i]]][.vector[i+1]]
+  #     }else{
+  #       sum <- sum + df[[.vector[i]]][.vector[1]]
+  #     }
+  #   }
+  #   return(sum)
+  # } for the TSP schedule problem
+  
   cat("Current file = ",
       .name,
       "\n",
-      file = "output.txt",
+      file = "output1.txt",
       append = TRUE)
   cat("Start temperature = ",
       T0,
       "\n",
-      file = "output.txt",
+      file = "output1.txt",
       append = TRUE)
   cat("Output for the number of probes = ",
       k,
       "\n",
-      file = "output.txt",
+      file = "output1.txt",
       append = TRUE)
-  Schedule <- sample(1:N, N, replace = F) # random generated scheduling
+  Schedule <-
+    sample(1:N, N, replace = F) # random generated scheduling
   curMin <- Fitness(Schedule) # current scheduling time
   
   repeat {
     for (i in 1:k) {
       Kandydat <- Swap(Schedule) # swap
-      Kandydat.Min <- Fitness(Kandydat) # checking new scheduling time
+      Kandydat.Min <-
+        Fitness(Kandydat) # checking new scheduling time
       dE <- Kandydat.Min - curMin
       if (dE < 0) {
         # if we found better scheduling time
@@ -105,7 +119,7 @@ main <- function(.name, .k, .t) {
       " Current best = ",
       curMin,
       "\n",
-      file = "output.txt",
+      file = "output1.txt",
       append = TRUE
     ) # new temperature
     if (T0 <= Tk) {
@@ -113,19 +127,18 @@ main <- function(.name, .k, .t) {
       break
     }
   }
-  cat("Optimal schedule", "\n", file = "output.txt", append = TRUE)
-  capture.output(Schedule, file = "output.txt", append = TRUE)
+  cat("Optimal schedule", "\n", file = "output1.txt", append = TRUE)
+  capture.output(Schedule, file = "output1.txt", append = TRUE)
   print("end")
 }
 
-Names <-
-  c("Dane_S2_50_10.csv",
-    "Dane_S2_100_20.csv",
-    "Dane_S2_200_20.csv")
+Names <- c("Dane_S2_100_20.csv")
 niter <- c(5000, 10000, 20000)
 
 for (i in 1:length(Names)) {
   for (j in 1:length(niter)) {
-    main(Names[i], niter[j], 100)
+    for (x in 1:10) {
+      main(Names[i], niter[j], 100)
+    }
   }
 }
