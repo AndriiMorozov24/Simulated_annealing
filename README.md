@@ -1,17 +1,25 @@
-# Simulated_annealing
- simulated annealing algorithm for the flow-shop scheduling problem by andrii.morozov23@gmail.com 
 
-Enter name of your input file. (3rd line)
-To start calculations, provide data (4th line), it must be .csv format.
-Rows must contain units of time for particular task on particular machine.
-Columns contain machine number.
-Each task should go from machine 1 to machine N (depends how many you set).
-Task on particular machine can be done only if machine is free.
-Fitness function (27th line) take care of it (makespan).
+# Simulated Annealing for Flow-Shop Scheduling  
 
-You can regulate speed of the program changing number of probes in the epoch by changing variable k. (7th line)
-Also you can change start and end value of the temprature. (8-9th line)
-66th line is responsible for formula that changes the tempreture, feel free to set it via your needs.
+This repository contains an implementation of the **Simulated Annealing (SA) algorithm** for solving the **Flow-Shop Scheduling Problem**. The algorithm optimizes the **makespan** (total completion time) by scheduling tasks across multiple machines while ensuring that each task follows a sequential order from **Machine 1 to Machine N**.  
 
-At the end will be created file called "output.txt" with results.
-Also repository contains couple .csv data and example outputs.
+## How to Use  
+
+1. **Provide Input Data**  
+   - When prompted, enter the name of your input file (**line 3**).  
+   - The input must be in **CSV format**, where:  
+     - **Rows** represent tasks, with values indicating the processing time required on each machine.  
+     - **Columns** represent machines, indexed sequentially from 1 to N.  
+   - Tasks are processed in order, and a task on a given machine can only begin once the machine is available.  
+
+2. **Configuring the Algorithm**  
+   - The **number of probes per epoch** is controlled by the variable **k** (**line 7**). Adjusting this value influences the exploration-exploitation balance.  
+   - You can modify the **initial temperature** and **final temperature** on **lines 8-9**, which affect the convergence behavior.  
+   - The **temperature update formula** is defined on **line 66**—you may customize it based on your optimization needs.  
+
+3. **Execution & Output**  
+   - Once the program completes, the results will be saved in **"output.txt"**.  
+   - The repository includes example **CSV datasets** and corresponding **sample outputs** for reference.  
+
+## Contact  
+For any questions or contributions, feel free to reach out at **andrii.morozov23@gmail.com**.  
